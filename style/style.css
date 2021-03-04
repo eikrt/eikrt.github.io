@@ -17,13 +17,22 @@ p {
 
    	font-family: "Tahoma", Geneva, sans-serif;
   	padding:16px;
+	font-size: 20px;
 
 }
 
 h1 {
    	font-family: "Tahoma", Geneva, sans-serif;
     	padding:16px;
+
 }
-a:link {
+.title a:link {
+	color:tomato;
+}
+.text a:link {
+
+   	font-family: "Tahoma", Geneva, sans-serif;
+    	padding:16px;
+	font-size: 20px;
 	color:tomato;
 }
