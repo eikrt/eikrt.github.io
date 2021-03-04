@@ -1,0 +1,26 @@
+body {
+    background-color: tomato;
+
+}
+.title_box {
+	float:left;
+	margin-right: 64px;
+}
+.title {
+	background-color: lightyellow;
+	padding:12px;
+}
+.text {
+	background-color: lightyellow;
+}
+p {
+    padding:16px;
+}
+
+h1 {
+   	font-family: "Tahoma", Geneva, sans-serif;
+    	padding:16px;
+}
+a:link {
+	color:tomato;
+}
