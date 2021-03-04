@@ -14,7 +14,10 @@ body {
 	background-color: lightyellow;
 }
 p {
-    padding:16px;
+
+   	font-family: "Tahoma", Geneva, sans-serif;
+  	padding:16px;
+
 }
 
 h1 {
