@@ -11,7 +11,7 @@ I read the book "Core questions in philosophy" by Elliott Sober, and it provoked
 - it asks *fundamental questions of justification*
 - it is "the enterprise of *clarifying concepts*"
 
-These are good points, but I'm more interested what do the terms in italic actually mean. Philosophy has gone through different set of interesting phases, namely in the Ancient Greek, where natural philosophy was practiced. As an example, Greek philosopher Democritus deducted, that all matter consisted of smaller undivided particles, *atoms* [1]. This kind of questions are somewhat irrelevant in modern philosophy, as physics studies them more thoroughly. The philosophers of Ancient Greek were not stupid, however, they actually were very adequate philosophers in a sense that they didn't have the modern science to back up their practice of studies. They didn't have something called physics, and for that reason, the heavy lifting of every theoretical branch of thinking was upon philosophers.
+These are good points, but I'm more interested what do the terms in italic actually mean. Philosophy has gone through different set of interesting phases, namely in the Ancient Greek, where natural philosophy was practiced. As an example, Greek philosopher Democritus deducted, that all matter consisted of smaller undivided particles, *atoms* [1]. These kind of questions are somewhat irrelevant in modern philosophy, as physics studies them more thoroughly. The philosophers of Ancient Greek were not stupid, however, they actually were very adequate philosophers in a sense that they didn't have the modern science to back up their practice of studies. They didn't have something called physics, and for that reason, the heavy lifting of every theoretical branch of thinking was upon philosophers.
 
 ## Generality
 
@@ -20,7 +20,7 @@ What do we mean with the *general* nature of philosophy? Generality doesn't refe
 Figure 1:
 
 |What are falling, apples and trees?|
-|Do apples fall from trees always?|
+|Do apples always fall from trees?|
 |Why do apples fall from trees?|
 |How does gravity work?|
 
