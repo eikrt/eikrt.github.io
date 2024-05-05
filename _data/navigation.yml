@@ -1,4 +1,6 @@
-- title: About
-  url: /about/
+- title: Dashboard
+  url: /dashboard/
 - title: Project showcase 
   url: /projects/
+- title: About
+  url: /about/

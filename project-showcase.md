@@ -14,6 +14,8 @@ permalink: /projects/
 
 [Looper and recorder for my home studio](https://github.com/eikrt/ntrack2)
 
-[Ball and paddle game](https://github.com/eikrt/freakout)
+[Ball and paddle game written in C](https://github.com/eikrt/freakout)
 
 [System configurations](https://github.com/eikrt/configurations)
+
+[This site :)](https://github.com/eikrt/eikrt.github.io)
