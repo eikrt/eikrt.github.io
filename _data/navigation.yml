@@ -2,6 +2,8 @@
   url: /dashboard/
 - title: Games 
   url: /games/
+- title: Music/Sounds 
+  url: /sounds/
 - title: Project showcase 
   url: /projects/
 - title: About
