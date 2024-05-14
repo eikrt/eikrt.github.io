@@ -4,6 +4,8 @@ title: Project showcase
 permalink: /projects/
 ---
 
+## Projects
+
 [EnewaldLisp – Lisp interpreter written in Rust](https://github.com/eikrt/EnewaldLisp)
 
 [Various components for embedded Linux development](https://github.com/eikrt/devcontrol)
@@ -16,6 +18,13 @@ permalink: /projects/
 
 [Ball and paddle game written in C](https://github.com/eikrt/freakout)
 
-[System configurations](https://github.com/eikrt/configurations)
 
-[This site :)](https://github.com/eikrt/eikrt.github.io)
+[This site](https://github.com/eikrt/eikrt.github.io)
+
+## Configurations
+
+[Old system configurations (DWM + Vim)](https://github.com/eikrt/configurations)
+
+[New system configurations (Gentoo with Wayland)](https://github.com/eikrt/nconfigurations)
+
+[NixOS Configurations (Flake, home-manager, configuration.nix)](https://github.com/eikrt/nixos-config)
