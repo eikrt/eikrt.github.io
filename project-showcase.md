@@ -23,8 +23,24 @@ permalink: /projects/
 
 ## Configurations
 
+### General
+
 [Old system configurations (DWM + Vim)](https://github.com/eikrt/configurations)
 
 [New system configurations (Gentoo with Wayland)](https://github.com/eikrt/nconfigurations)
 
 [NixOS Configurations (Flake, home-manager, configuration.nix)](https://github.com/eikrt/nixos-config)
+### Server and client
+
+[NixOS server for bitmap transfer](https://github.com/eikrt/nixos-server)
+
+[NixOS client for bitmap display](https://github.com/eikrt/nixos-client)
+
+[MQTT scripts for image transfer](https://github.com/eikrt/abzug-sender)
+
+[MQTT scripts for image receiving](https://github.com/eikrt/abzug-receiver)
+
+[]()
+[]()
+[]()
+
