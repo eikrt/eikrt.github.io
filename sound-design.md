@@ -13,3 +13,5 @@ Here's some of my sound design.
 ## Music
 
 [Hypersonic Missile]({{site.url}}/assets/hypersonic-missile.flac)
+
+[O-12]({{site.url}}/assets/O-12.flac)
