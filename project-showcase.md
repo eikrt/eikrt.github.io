@@ -10,6 +10,8 @@ permalink: /projects/
 
 [Various components for embedded Linux development](https://github.com/eikrt/devcontrol)
 
+[Procedural 2D graphics pipeline for paper planes](https://github.com/eikrt/pig)
+
 [World generator and viewer](https://github.com/eikrt/worldgen2)
 
 [Fighting game with working multiplayer](https://github.com/eikrt/gut-champion)
