@@ -6,6 +6,8 @@ permalink: /projects/
 
 ## Projects
 
+[Enewald – purely functional Linux system with publish-subscribe capabilities](https://github.com/eikrt/EnewaldLisp)
+
 [EnewaldLisp – Lisp interpreter written in Rust](https://github.com/eikrt/EnewaldLisp)
 
 [Various components for embedded Linux development](https://github.com/eikrt/devcontrol)
