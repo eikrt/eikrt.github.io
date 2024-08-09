@@ -7,6 +7,8 @@ permalink: /enewald/
 ## ENEWALD – Secure, purely functional, publish-subscribe Linux distribution
 
 [Documentation](/enewald_documentation)
+
+[Research plan](/enewald_plan)
 ### Inspired by Nix, Gentoo and Guix 
 
 Enewald is a project aiming to provide a lightweight system for embedded and IoT. The system is configured and written 100% with Lua. Enewald is divided to three parts:
