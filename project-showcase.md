@@ -22,6 +22,7 @@ permalink: /projects/
 
 [Ball and paddle game written in C](https://github.com/eikrt/freakout)
 
+[Raytracing graphics engine](https://github.com/eikrt/raytracer)
 
 [This site](https://github.com/eikrt/eikrt.github.io)
 
