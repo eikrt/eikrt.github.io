@@ -30,6 +30,11 @@ Super Smash Bros. clone. Working multiplayer. Written in Rust.
 
 [Source](https://github.com/eikrt/gut-champion)
 
+## Dimensioner
+
+World generator, server + client written in Rust
+
+[Source](https://github.com/eikrt/dimensioner)
 
 ## Gemstone
 
