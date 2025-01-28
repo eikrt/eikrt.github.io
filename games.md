@@ -24,6 +24,13 @@ Graphics by Niilo Korte
 
 [Play now!](/freakout/)
 
+## Gut Champion
+
+Super Smash Bros. clone. Working multiplayer. Written in Rust.
+
+[Source](https://github.com/eikrt/gut-champion)
+
+
 ## Gemstone
 
 Perhaps my most ambitious project, aiming to be a 3D platformer
