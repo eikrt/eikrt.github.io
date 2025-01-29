@@ -24,6 +24,7 @@ This is an iteration of a Breakout/Arkanoid style game. You can play a minified 
 Graphics by Niilo Korte
 
 ![](/assets/freakout_screenshot.png)
+
 [Play now!](/freakout/)
 
 ## Gut Champion
@@ -31,6 +32,7 @@ Graphics by Niilo Korte
 Super Smash Bros. clone. Working multiplayer. Written in Rust.
 
 ![](/assets/gut-champion_screenshot.png)
+
 [Source](https://github.com/eikrt/gut-champion)
 
 ## Dimensioner
@@ -55,4 +57,5 @@ Personal 5h-ish gamejam game.
 Game design, graphics and music by Niilo Korte
 
 ![](/assets/invitro_screenshot.png)
+
 [Play now!](https://eikrt.itch.io/in-vitro/)
